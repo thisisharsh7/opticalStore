@@ -1,0 +1,89 @@
+[
+  [
+    {
+      "id": "1",
+      "title": "Frame 1",
+      "goto": "frame_1",
+      "price": 200,
+      "detail": "The 'Elegance Series: Classic Black' optical frame boasts a sleek and minimalistic design, perfect for those who appreciate understated elegance. The classic black color complements any outfit, making it a versatile choice for daily wear.",
+      "category": "frame",
+      "next": "Lens"
+    },
+    {
+      "id": "2",
+      "title": "Frame 2",
+      "goto": "frame_2",
+      "price": 150,
+      "detail": "Crafted from high-quality, durable materials, this frame ensures longevity and reliability. The robust construction guarantees a frame that can withstand everyday use while maintaining its original charm.",
+      "category": "frame",
+      "next": "Lens"
+    },
+    {
+      "id": "3",
+      "title": "Frame 3",
+      "goto": "frame_3",
+      "price": 300,
+      "detail": "The ergonomic design of this optical frame provides a comfortable and secure fit throughout the day. The lightweight construction ensures that wearing these frames is a pleasure, allowing you to focus on your day without any discomfort.",
+      "category": "frame",
+      "next": "Lens"
+    }
+  ],
+  [
+    {
+      "id": "11",
+      "title": "Lens 1",
+      "goto": "lens_1",
+      "price": 1200,
+      "detail": "Discover clarity like never before with our PrecisionVision HD lenses. Engineered using cutting-edge technology, these lenses offer unparalleled visual precision. The high-definition optics provide sharpness and clarity across various distances, ensuring a superior viewing experience for both near and far vision. Say goodbye to distortions and hello to a world seen in stunning detail.",
+      "category": "lens",
+      "next": "Case"
+    },
+    {
+      "id": "12",
+      "title": "Lens 2",
+      "goto": "lens_2",
+      "price": 1000,
+      "detail": "Protect your eyes from the digital age with our ComfortView Blue Light Blocking lenses. Designed for the modern lifestyle, these lenses effectively filter harmful blue light emitted by digital screens. Reduce eye strain, improve sleep quality, and enhance your overall well-being. Stay comfortably connected to your devices, knowing your eyes are shielded by advanced technology.",
+      "category": "lens",
+      "next": "Case"
+    },
+    {
+      "id": "13",
+      "title": "Lens 3",
+      "goto": "lens_3",
+      "price": 2100,
+      "detail": "Experience the convenience of day-to-night eyewear with our AdaptiveSun Transition lenses. These lenses seamlessly adapt to changing light conditions, providing optimum visibility whether you're indoors or outdoors. Shield your eyes from harmful UV rays while enjoying the convenience of a single pair of glasses that adjusts to your surroundings. Embrace the freedom of versatile eyewear.",
+      "category": "lens",
+      "next": "Case"
+    },
+    {
+      "id": "14",
+      "title": "Lens 4",
+      "price": 500,
+      "detail": "Protect your eyes from the digital age with our ComfortView Blue Light Blocking lenses. Designed for the modern lifestyle, these lenses effectively filter harmful blue light emitted by digital screens. Reduce eye strain, improve sleep quality, and enhance your overall well-being. Stay comfortably connected to your devices, knowing your eyes are shielded by advanced technology.",
+      "goto": "lens_4",
+      "category": "lens",
+      "next": "Case"
+    }
+  ],
+  [
+    {
+      "id": "21",
+      "title": "Case 1",
+      "goto": "case_1",
+      "price": 800,
+      "detail": "The FlexiShield™ Customizable Lens Case adapts to your needs. Its versatile interior can be customized to fit different lens sizes and types. The soft yet robust padding inside the case ensures that your lenses are cushioned and protected from any impacts. The exterior is designed for a comfortable grip and easy access, making lens changes quick and effortless.",
+      "category": "case",
+      "next": "Cart"
+    },
+    {
+      "id": "22",
+      "title": "Case 2",
+      "price": 100,
+      "detail": "Step into the world of luxury with our LuxeLeather™ Designer Lens Case Collection. Crafted from high-quality, genuine leather, these cases blend style with functionality. Available in an array of sophisticated colors and textures, each case is meticulously designed to cater to the discerning tastes of our esteemed customers. Elevate your eyewear experience with these exquisite lens cases.",
+      "goto": "case_2",
+      "category": "case",
+      "next": "Cart"
+    }
+  ]
+]
