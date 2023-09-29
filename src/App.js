@@ -5,6 +5,7 @@ import Product from "./components/Product";
 import Cart from './components/Cart';
 import { Icon } from '@iconify/react';
 import { createContext, useState } from "react";
+import NotFound from "./NotFound";
 
 
 export const GlobalInfo = createContext();
@@ -28,6 +29,7 @@ function App() {
             <Route path="/Case" element={<Product featured='Cases' type={2} />} />
             <Route path="/Cart" element={<Cart />} />
             <Route path="/detail/:category/:id" element={<Detail />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
         <footer className="bg-black text-white text-center ">
